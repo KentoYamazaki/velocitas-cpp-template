@@ -24,6 +24,8 @@
 #include <nlohmann/json.hpp>
 #include <utility>
 
+// Added comment
+
 namespace example {
 
 const auto GET_SPEED_REQUEST_TOPIC       = "sampleapp/getSpeed";
