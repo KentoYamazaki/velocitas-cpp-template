@@ -25,7 +25,7 @@
 #include <utility>
 
 // Added comment
-
+// Added strings
 namespace example {
 
 const auto GET_SPEED_REQUEST_TOPIC       = "sampleapp/getSpeed";
